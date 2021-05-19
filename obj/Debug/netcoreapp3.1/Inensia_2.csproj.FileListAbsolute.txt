@@ -1,0 +1,13 @@
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.exe
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.deps.json
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.runtimeconfig.json
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.runtimeconfig.dev.json
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.dll
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\bin\Debug\netcoreapp3.1\Inensia_2.pdb
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.csprojAssemblyReference.cache
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.AssemblyInfoInputs.cache
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.AssemblyInfo.cs
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.csproj.CoreCompileInputs.cache
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.dll
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.pdb
+C:\Users\tote5002\source\repos\Inensia_2\Inensia_2\obj\Debug\netcoreapp3.1\Inensia_2.genruntimeconfig.cache
